@@ -13,10 +13,10 @@ spring:
     username: postgres
     password: postgres
     driverClassName: org.postgresql.Driver
-  security:
-    user:
-      name: fakher
-      password: fakher
-      roles: manager
+#  security:
+#    user:
+#      name: fakher
+#      password: fakher
+#      roles: manager
 server:
   port: 8082
